@@ -1,2 +1,4 @@
 venv/
-wvenv/
+wvenv/db.sqlite3
+geckodriver.log
+virtualenv
