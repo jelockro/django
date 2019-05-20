@@ -1,4 +1,5 @@
 venv/
-wvenv/db.sqlite3
+wvenv/
+db.sqlite3
 geckodriver.log
 virtualenv
